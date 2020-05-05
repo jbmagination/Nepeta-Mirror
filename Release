@@ -5,7 +5,7 @@ Description: Nepeta's repo for mostly FOSS software. Supports Cydia and Zebra. (
 Label: Nepeta (MIRROR)
 Origin: Nepeta (MIRROR)
 Suite: stable
-Architechture: iphoneos-arm
+Architecture: iphoneos-arm
 MD5Sum:
  ed20fe0ac8c37099c169afc898c1cd8f           132420 Packages
  d066835e487a2b8a7a5074e339596cb6            33041 Packages.bz2
